@@ -24,7 +24,7 @@
     "lodash": "^4.17.15",
     "lusca": "^1.6.1",
     "mongoose": "^5.9.10",
-    "nodemailer": "^6.4.6",
+    "nodemailer": "^6.4.16",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "winston": "^3.2.1"
